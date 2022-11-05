@@ -16,7 +16,7 @@ launch.json.
 ## 3.Traversing the attribute space
 please run "traverse_attribute_space.py",The relevant configuration parameters are in section "tra_attr" of file 
 launch.json.
-## 4.editing direction semantic identification and quantitative evaluation of disentanglement.
+## 4.Editing direction semantic identification and quantitative evaluation of disentanglement.
 please run "rank_interpretable_paths.py",The relevant configuration parameters are in section "Inter_path" of file 
 launch.json.
 ## 5.Result  and GIF
