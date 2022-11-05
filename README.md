@@ -10,7 +10,9 @@ please run "train_Mix_Latent.py" file.Run the command in the "train_Mix" section
 please run "line_2_orojarpenalty.py" file.Run the command in the "line_2_orojar" section of the launch.json file.
 ## Train Discovery to Hessian Penalty(DTH) 
 please run "line_2_hessianpenalty.py" file.Run the command in the "line_2_hessian" section of the launch.json file.
-# Result  and GIF
+# 2.Traversing the potential space
+please run "traverse_line_latent.py",The relevant configuration parameters are in section "traverse_line_latent" of file launch.json.
+# 5.Result  and GIF
 - Method DTH edits result of au_12_Lip_Corner_Puller property in direction 86
 ![](https://github.com/ydniuyongjie/twoStageForFaceEdit/blob/main/gif/au_12_Lip_Corner_Puller_162_SDD.gif)
 - Method SHP edits result of au_12_Lip_Corner_Puller property in direction 98
