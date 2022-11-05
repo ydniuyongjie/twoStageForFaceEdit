@@ -1,4 +1,4 @@
-# - Train model for five methods
+# 1. Train model for five methods
 ## Train single discovery dirextion(SDD) 
 please run "train_Latent.py" file.Run the command in the "train_latent" section of the launch.json file.
 ## Train single Hessian Penalty(SHP) 
