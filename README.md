@@ -30,5 +30,7 @@ launch.json.
 ![](https://github.com/ydniuyongjie/twoStageForFaceEdit/blob/main/gif/au_12_Lip_Corner_Puller_6_DTJ.gif)
 - Method DTH edits result of au_12_Lip_Corner_Puller property in direction 86
 ![](https://github.com/ydniuyongjie/twoStageForFaceEdit/blob/main/gif/au_12_Lip_Corner_Puller_86_DTH.gif)
+- Comparison of SDD and HDP accuracy
+![](https://github.com/ydniuyongjie/twoStageForFaceEdit/blob/main/figs/accuracy.png)
 ## Related PDF Papers
 The relevant papers have not been formally published and are not readily available to the public.
