@@ -1,12 +1,4 @@
-Our work is divided into four steps:
-
-the first step is model training; 
-
-the second step is latent space traversal; 
-
-the third step is attribute traversal; 
-
-the fourth step is editing direction semantic identification and quantitative evaluation of disentanglement.
+Our work is divided into four steps:the first step is model training;the second step is latent space traversal;the third step is attribute traversal; the fourth step is editing direction semantic identification and quantitative evaluation of disentanglement.
 # 1. Train model for five methods
 ## Train single discovery dirextion(SDD) 
 please run "train_Latent.py" file.Run the command in the "train_latent" section of the launch.json file.
