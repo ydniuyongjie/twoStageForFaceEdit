@@ -19,7 +19,7 @@ launch.json.
 ## 4.Editing direction semantic identification and quantitative evaluation of disentanglement.
 please run "rank_interpretable_paths.py",The relevant configuration parameters are in section "Inter_path" of file 
 launch.json.
-## 5.Result  and GIF
+## 5.Result and GIF
 - Method DTH edits result of au_12_Lip_Corner_Puller property in direction 86
 ![](https://github.com/ydniuyongjie/twoStageForFaceEdit/blob/main/gif/au_12_Lip_Corner_Puller_162_SDD.gif)
 - Method SHP edits result of au_12_Lip_Corner_Puller property in direction 98
